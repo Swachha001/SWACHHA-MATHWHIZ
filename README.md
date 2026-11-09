@@ -191,7 +191,7 @@ LIMIT 10;
 
 ## GitHub Repository Subdirectory URL
 
-https://github.com/username/repository/tree/main/MathWhiz
+https://github.com/Swachha001/SWACHHA-MATHWHIZ
 
 ## Complete README
 
